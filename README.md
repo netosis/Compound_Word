@@ -41,9 +41,9 @@ This would be accomplished by creating a recursive function that divides the wor
     <li>If the length is the greather than 's_largest' then 's_largest' becomes the word that it was compared to</li>
   </ul>
   <li>After the loop ends, the largest and the second largest compound words are printed with the time taken as follows:-</li>
-  ![image](https://github.com/netosis/Compound_Word/assets/82317842/71b09a70-ba16-4f09-bf90-17030f0e4dcc)
-
 </ul>
+
+![image](https://github.com/netosis/Compound_Word/assets/82317842/fd3a680a-db49-4a7c-86f3-2c301d476225)
 <!-- <ul>
   <li>The <b>Time</b> library has been imported to get the time taken by the code to run.</li>
   <ul>
